@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaSter-Pranav
+- 👋 Hi, I’m Pranavraj(@MaSter-Pranav)
 - 👀 I’m interested in Machine Learning ,Data Science
 - 🌱 I’m currently learning Core Java and Advance Java
 - 💞️ I’m looking to collaborate on Machine Learning Models
