@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Pranavraj(@MaSter-Pranav)
-- 👀 I’m interested in Machine Learning ,Data Science
-- 🌱 I’m currently learning Core Java and Advance Java
-- 💞️ I’m looking to collaborate on Machine Learning Models
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pranavraj(@MaSter-Pranav
+- 💞️ I’m skilled in C++,Python,MySql and have Proficiency in Data Structures and Algorithms as well.
+-    I'm have done few projects in Python,Machine Learning and in Deep Learning using transfer learning.
+- 📫 How to reach me ...email-pranavrajpandey5@gmail.com
 -
 
 <!---
