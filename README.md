@@ -2,7 +2,7 @@
 
 💻 I’m an Associate Software Developer skilled in C#, .NET Core, SQL Server, and Entity Framework. 
 
-I have a strong foundation in Data Structures and Algorithms with additional skills in Python, Machine Learning, and Deep Learning through projects using transfer learning.
+I have a strong foundation in C#,Dot Net Core, Data Structures and Algorithms with additional skills in Python, Machine Learning, and Deep Learning through projects using transfer learning.
 
 🚀 Currently working on backend development with experience in building scalable web applications and system design.
 
