@@ -1,12 +1,19 @@
-👋 Hi, I’m Pranavraj (@MaSter-Pranav)
+Hello,
+I am a software engineer with over 2.5 years of experience in software development, driven by a strong passion for creating innovative and impactful solutions. I actively engage in solving data structures and algorithms problems, while focusing on enhancing my skills in system design and cloud technologies to remain current with industry trends and improve my problem-solving abilities.
 
-💻 I’m an Associate Software Developer skilled in C#, .NET Core, SQL Server, and Entity Framework. 
+My professional experience encompasses:
 
-I have a strong foundation in C#,Dot Net Core, Data Structures and Algorithms with additional skills in Python, Machine Learning, and Deep Learning through projects using transfer learning.
+Software Development using C#, .NET Core, Entity Framework, SQL Server, Web APIs, Clean Architecture, CQRS, and Event-Driven Architecture
 
-🚀 Currently working on backend development with experience in building scalable web applications and system design.
+Machine Learning and AI, including the development of an Apparel Recommendation System during my final year of college
 
-📫 How to reach me: email - pranavrajpandey5@gmail.com
+Data Science, having worked as a Junior Data Scientist at Happy Monk.AI on projects such as surveillance systems
+
+I am committed to continuous learning and regularly deepen my knowledge in system design, algorithms, and emerging technologies to refine my expertise.
+
+Outside of technology, I have a keen interest in finance, cryptocurrency, and entrepreneurship, which I actively explore to broaden my horizons and identify new opportunities.
+
+I am eager to contribute to meaningful projects and collaborate with like-minded professionals to deliver impactful results.
 
 <!---
 MaSter-Pranav/MaSter-Pranav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
