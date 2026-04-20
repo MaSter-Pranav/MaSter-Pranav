@@ -1,5 +1,5 @@
 Hello,
-I am a software engineer with over 2.5 years of experience in software development, driven by a strong passion for creating innovative and impactful solutions. I actively engage in solving data structures and algorithms problems, while focusing on enhancing my skills in system design and cloud technologies to remain current with industry trends and improve my problem-solving abilities.
+I am a software engineer with over 3 years of experience in software development, driven by a strong passion for creating innovative and impactful solutions. I actively engage in solving data structures and algorithms problems, while focusing on enhancing my skills in system design and cloud technologies to remain current with industry trends and improve my problem-solving abilities.
 
 My professional experience encompasses:
 
